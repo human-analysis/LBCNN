@@ -1,2 +1,2 @@
 # LBCNN
-Local Binary Convolutional Neural Network
+Local Binary Convolutional Neural Networks
